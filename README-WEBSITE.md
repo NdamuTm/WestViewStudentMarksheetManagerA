@@ -30,12 +30,12 @@ The application allows you to:
 
 The web application is hosted and can be accessed online:
 
-[**WestView Student Marksheet Manager**](https://ndamutm.github.io/WestViewStudentMarksheetManager/)
+[**WestView Student Marksheet Manager**](https://ndamutm.github.io/WestViewStudentMarksheetManagerwebsite/)
 
 ### Installation & Usage
 
 1. **Visit the Website:**
-   Open your web browser and navigate to [https://ndamutm.github.io/WestViewStudentMarksheetManager/](https://ndamutm.github.io/WestViewStudentMarksheetManager/).
+   Open your web browser and navigate to [https://ndamutm.github.io/WestViewStudentMarksheetManagerwebsite/](https://ndamutm.github.io/WestViewStudentMarksheetManagerwebsite/).
 
 2. **Interact with the Application:**
    - Use the **Add Student** button to enter new student records.
